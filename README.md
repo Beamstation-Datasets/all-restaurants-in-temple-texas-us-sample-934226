@@ -1,6 +1,6 @@
 # All Restaurants in Temple, Texas, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `934226` |
 | Location | Temple |
 | Category | Restaurants |
-| Full dataset size | 195 records |
-| Free sample size | 19 records (9.74%) |
-| Last export | 2026-04-07T09:50:03.005300+00:00 |
+| Full dataset size | 233 records |
+| Free sample size | 23 records (9.87%) |
+| Last export | 2026-05-05T09:54:07.065855+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-temple-texas-us-sample-934226/releases/download/sample-latest/beamstation_934226_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
