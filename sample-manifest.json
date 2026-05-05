@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9fdba7c7-94ba-49b4-9981-58bf867133bb",
+  "export_job_id": "4e7e0013-7b23-4a18-a1fc-797d53a3519c",
   "id_short": 934226,
-  "published_at": "2026-04-17T07:30:20Z",
+  "published_at": "2026-05-05T19:04:07Z",
   "repo_name": "all-restaurants-in-temple-texas-us-sample-934226",
   "sample_asset_name": "beamstation_934226_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/934226/beamstation_934226_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "876d930d3edfea532e8547582a758ec75bda5bc98156e556de8e893fd8a0612c",
-  "sample_size_bytes": 81098,
-  "total_records": 195
+  "sample_records": 23,
+  "sample_sha256": "5470c43b8fa9e29b2dfde8b1e4f852ab70944a5f2e951e656ca1e1cfdb7c8d7a",
+  "sample_size_bytes": 94334,
+  "total_records": 233
 }
